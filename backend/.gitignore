@@ -12,6 +12,7 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 /.idea
+.idea
 /.vscode
 database/database.sqlite
 database/test.sqlite
