@@ -10,7 +10,6 @@ import About from "./pages/about";
 import NoMatch from "./pages/noMatch";
 
 
-
 function App() {
 
   return (
